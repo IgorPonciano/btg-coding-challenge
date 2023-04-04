@@ -1,6 +1,8 @@
 # btg-coding-challenge
 BTG Pactual (IT-PME) - Teste de proficiência em raciocínio lógico e conhecimentos de programação. Realizado por Igor Ponciano em 03/04.
 
+![WallObserverSample](https://user-images.githubusercontent.com/79609859/229858636-d53f18c9-88ab-45e6-926f-69306d3172e7.gif)
+
 ## 🔍Compreendendo o problema
 
 Como de costume, gosto de antes de sair codando, parar e analisar o problema até compreender o que realmente o código deverá realizar.
